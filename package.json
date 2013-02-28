@@ -15,6 +15,9 @@
   "bugs": {
     "url": "http://github.com/transparent/transparent/issues"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "main": "./lib/transparent",
   "dependencies": {},
   "devDependencies": {
